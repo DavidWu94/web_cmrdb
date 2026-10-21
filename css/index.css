@@ -1,5 +1,5 @@
 body {
-    text-align: center;
+    text-align: right;
 }
 
 #list {
@@ -26,4 +26,3 @@ body {
 .textcloerbg {
     background-color: yellow;
 }
-
